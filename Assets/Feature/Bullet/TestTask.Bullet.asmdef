@@ -1,0 +1,16 @@
+{
+    "name": "TestTask.Bullet",
+    "rootNamespace": "TestTask.Bullet",
+    "references": [
+        "GUID:b9f6de05390822746976965a96c5911a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

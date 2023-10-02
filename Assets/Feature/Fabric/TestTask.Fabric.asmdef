@@ -1,0 +1,21 @@
+{
+    "name": "TestTask.Fabric",
+    "rootNamespace": "TestTask.Fabric",
+    "references": [
+        "GUID:61fa4d1984153a840b4add30f896897f",
+        "GUID:6af176dffd178ab468a4829a2e0f61cb",
+        "GUID:bd971f23883bb06479919d92d72afdde",
+        "GUID:79ec493c81185b9478c8148648dc4bc1",
+        "GUID:058b48331b8cb1e47b8b1be9d3956eb9",
+        "GUID:bc1d12a4cd692ed4b8320199ed8d487f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

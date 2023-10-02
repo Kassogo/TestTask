@@ -1,0 +1,20 @@
+{
+    "name": "TestTask.Player",
+    "rootNamespace": "TestTask.Player",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:b9f6de05390822746976965a96c5911a",
+        "GUID:61fa4d1984153a840b4add30f896897f",
+        "GUID:6af176dffd178ab468a4829a2e0f61cb",
+        "GUID:058b48331b8cb1e47b8b1be9d3956eb9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

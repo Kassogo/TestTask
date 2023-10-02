@@ -1,0 +1,18 @@
+{
+    "name": "TestTask.Restart",
+    "rootNamespace": "TestTask.Restart",
+    "references": [
+        "GUID:61fa4d1984153a840b4add30f896897f",
+        "GUID:bd971f23883bb06479919d92d72afdde",
+        "GUID:058b48331b8cb1e47b8b1be9d3956eb9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
